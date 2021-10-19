@@ -11,4 +11,4 @@ steps:
          '--entry-point=notifySlack',
          '--source=.', 
          '--runtime=nodejs8', 
-         '--trigger-topic=billing-alert']
+         '--trigger-topic=billing-alerts']
